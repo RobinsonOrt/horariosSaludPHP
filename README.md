@@ -1,4 +1,4 @@
-"# horariosSaludPHP" 
+# horariosSaludPHP
 
 Basic system for the control of schedules, shifts, specialists, medical appointments and specialties in a hospital.
 
